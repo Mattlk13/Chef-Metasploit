@@ -4,4 +4,4 @@ source 'http://rubygems.org'
 gem 'chef'
 
 # add `knife cookbook github` subcommand
-gem 'knife-github-cookbooks'
+gem 'knife-github-cookbooks', '>= 0.1.6'
